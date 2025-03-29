@@ -17,17 +17,17 @@ I'm a **full-stack developer** passionate about building scalable, user-focused 
 ### 1. Interview-Saathi.AI
 - **Description**: AI Mock Interview saas facilitating mock interviews for various roles, rounds, technologies, and experience levels with AI/ML.
 - **Tech**: Next.js, Gemini API, shadcn UI, PostgreSQL, Clerk auth
-- **Link**: [[GitHub Repo URL] | [Live Demo URL if applicable]](https://github.com/mahesh-barapatre/Interview-Saathi)
+- **Link**: [GitHub Repo URL](https://github.com/mahesh-barapatre/Interview-Saathi) | [Live Demo URL if applicable](https://interview-saathi-nine.vercel.app/) 
 
-### 2. [Project Name 2]
-- **Description**: A mobile app using React Native for [e.g., "cross-platform note-taking"].
-- **Tech**: React Native, JavaScript
-- **Link**: [GitHub Repo URL] | [Live Demo URL if applicable]
+### 2. CraftGenie.AI
+- **Description**: a tool that generates high-quality text content, enhancing productivity for marketers, developers, and creators.
+- **Tech**: Next.js, Gemini API, shadcn UI, PostgreSQL, Clerk auth
+- **Link**: [GitHub Repo URL](https://github.com/mahesh-barapatre/CraftGenie.AI) | [Live Demo URL if applicable](https://craft-genie-ai.vercel.app/)
 
-### 3. [Project Name 3]
-- **Description**: A Next.js portfolio site with [e.g., "server-side rendering and SEO optimization"].
-- **Tech**: Next.js, CSS
-- **Link**: [GitHub Repo URL] | [Live Demo URL if applicable]
+### 3. Sarthi2.0
+- **Description**: a problem discussion platform with collaborative tools for seamless communication of ideas.
+- **Tech**: React.js, WebRTC, Socket.io, Node.js, Tailwind CSS
+- **Link**: [GitHub Repo URL](https://github.com/mahesh-barapatre/Sarthi2.0) | [Live Demo URL if applicable](https://sarthi2-0.vercel.app/)
 
 *(Pin these projects on your profile for visibility!)*
 
