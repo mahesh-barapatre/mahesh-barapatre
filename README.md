@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm [Your Name]
+# Hey there! 👋 I'm Mahesh Barapatre
 
 I'm a **full-stack developer** passionate about building scalable, user-focused solutions with modern tech. I specialize in the **MERN stack (MongoDB, Express.js, React, Node.js)**, **Next.js**, and **React Native**. Ranked in the **top 12% on LeetCode (500+ problems solved)**, I love tackling challenges and writing clean code.
 
@@ -37,14 +37,6 @@ I'm a **full-stack developer** passionate about building scalable, user-focused 
 - **React Intern @ Sync Interns**  
   Developed dynamic UI features for web apps using React.
 - **Open-Source Contributor**  
-  Contributed to **Hacktoberfest** and **GSSoC (Girl Script Summer of Code)**, merging PRs and collaborating on community projects.
-
----
-
-## 📫 Get in Touch
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [linkedin.com/in/your-profile](#)
-- **Twitter**: [@yourhandle](#)
-- **Portfolio**: [yourportfolio.com](#) *(if you have one)*
+  Contributed to **Hacktoberfest** and **GSSoC (Girl Script Summer of Code)**, merging PRs and collaborating on community projects
 
 Feel free to explore my repos or drop me a message—I’m always up for coding collabs or new opportunities! 🚀
