@@ -2,6 +2,7 @@
 
 I'm a **full-stack developer** passionate about building scalable, user-focused solutions with modern tech. I specialize in the **MERN stack (MongoDB, Express.js, React, Node.js)**, **Next.js**, and **SQL**. Ranked in the **top 12% on LeetCode (500+ problems solved)**, I love tackling challenges and writing clean code.
 
+![Logo]([https://example.com/image.png](https://camo.githubusercontent.com/7de2cf4392d056d08fad67a50d7fa7f088bab692cf946e638cf5f4c2e5e51390/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f353430333931382f6d656469612f64356463636235643538313863626132633866613063623135666235373862332e676966))
 ---
 
 ## 🛠️ Skills
