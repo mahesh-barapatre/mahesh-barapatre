@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Harshit Khosla</h1>
+<h1 align="center">Hi 👋, I'm Mahesh Barapatre</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit3011&label=Profile%20views&color=0e75b6&style=flat" alt="harshit3011" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahesh-barapatre&label=Profile%20views&color=0e75b6&style=flat" alt="mahesh-barapatre" /> </p>
 
----
 
 ## 🛠️ Skills
 - **Frontend**: React, Next.js, React Native, JavaScript (ES6+), HTML, CSS
@@ -12,18 +11,15 @@
 - **Problem Solving**: Data Structures & Algorithms (Top 12% LeetCode)
 - **Other**: RESTful APIs, Agile Development
 
----
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="https://twitter.com/harshitkhosla8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshitkhosla8" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harshit-khosla-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit-khosla" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/harshit_3011" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshit_3011" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/harshit_3011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshit_3011" height="30" width="40" /></a>
+<a href="https://twitter.com/doit_mahesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="doit_mahesh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahesh-barapatre-a93731225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahesh-barapatre" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/doit_mahesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="doit_mahesh" height="30" width="40" /></a>
   
 </p>
 
----
 
 ## 🌟 Featured Projects
 ### 1. Interview-Saathi.AI
@@ -41,7 +37,6 @@
 - **Tech**: React.js, WebRTC, Socket.io, Node.js, Tailwind CSS
 - **Link**: [GitHub Repo URL](https://github.com/mahesh-barapatre/Sarthi2.0) | [Live URL](https://sarthi2-0.vercel.app/)
 
----
 
 ## 💼 Experience
 - **React Intern @ Sync Interns**  
