@@ -14,12 +14,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="https://twitter.com/doit_mahesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="doit_mahesh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mahesh-barapatre-a93731225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahesh-barapatre" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/doit_mahesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="doit_mahesh" height="30" width="40" /></a>
+<a target="_blank" href="https://twitter.com/doit_mahesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="doit_mahesh" height="30" width="40" /></a>
+<a target="_blank" href="https://linkedin.com/in/mahesh-barapatre-a93731225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahesh-barapatre" height="30" width="40" /></a>
+<a target="_blank" href="https://www.leetcode.com/doit_mahesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="doit_mahesh" height="30" width="40" /></a>
   
 </p>
 
+<div style="margin-bottom: 20px;"></div>
 
 ## 🌟 Featured Projects
 ### 1. Interview-Saathi.AI
@@ -37,6 +38,7 @@
 - **Tech**: React.js, WebRTC, Socket.io, Node.js, Tailwind CSS
 - **Link**: [GitHub Repo URL](https://github.com/mahesh-barapatre/Sarthi2.0) | [Live URL](https://sarthi2-0.vercel.app/)
 
+<div style="margin-bottom: 20px;"></div>
 
 ## 💼 Experience
 - **React Intern @ Sync Interns**  
@@ -47,5 +49,5 @@
 Feel free to explore my repos or drop me a message—I’m always up for coding collabs or new opportunities! 🚀
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit3011&show_icons=true&locale=en&layout=compact" alt="harshit3011" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesh-barapatre&show_icons=true&locale=en&layout=compact" alt="mahesh-barapatre" />
 </p>
