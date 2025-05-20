@@ -1,8 +1,8 @@
-# Hey there! 👋 I'm Mahesh Barapatre
+<h1 align="center">Hi 👋, I'm Harshit Khosla</h1>
+<h3 align="center">A passionate Software Engineer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit3011&label=Profile%20views&color=0e75b6&style=flat" alt="harshit3011" /> </p>
 
-I'm a **full-stack developer** passionate about building scalable, user-focused solutions with modern tech. I specialize in the **MERN stack (MongoDB, Express.js, React, Node.js)**, **Next.js**, and **SQL**. Ranked in the **top 12% on LeetCode (500+ problems solved)**, I love tackling challenges and writing clean code.
-
-![Logo]([https://camo.githubusercontent.com/7de2cf4392d056d08fad67a50d7fa7f088bab692cf946e638cf5f4c2e5e51390/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f353430333931382f6d656469612f64356463636235643538313863626132633866613063623135666235373862332e676966])
 ---
 
 ## 🛠️ Skills
@@ -11,6 +11,17 @@ I'm a **full-stack developer** passionate about building scalable, user-focused 
 - **Tools**: Git, GitHub, npm, VS Code, Postman
 - **Problem Solving**: Data Structures & Algorithms (Top 12% LeetCode)
 - **Other**: RESTful APIs, Agile Development
+
+---
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  
+<a href="https://twitter.com/harshitkhosla8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshitkhosla8" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harshit-khosla-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit-khosla" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/harshit_3011" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshit_3011" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/harshit_3011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshit_3011" height="30" width="40" /></a>
+  
+</p>
 
 ---
 
@@ -39,3 +50,7 @@ I'm a **full-stack developer** passionate about building scalable, user-focused 
   Contributed to **Hacktoberfest** and **GSSoC (Girl Script Summer of Code)**, merging PRs and collaborating on community projects
 
 Feel free to explore my repos or drop me a message—I’m always up for coding collabs or new opportunities! 🚀
+
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit3011&show_icons=true&locale=en&layout=compact" alt="harshit3011" />
+</p>
