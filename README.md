@@ -20,8 +20,7 @@
   
 </p>
 
-<div style="margin-bottom: 20px;"></div>
-
+<div style="margin-bottom: 20px;">-</div>
 ## 🌟 Featured Projects
 ### 1. Interview-Saathi.AI
 - **Description**: AI Mock Interview saas facilitating mock interviews for various roles, rounds, technologies, and experience levels with AI/ML.
@@ -38,7 +37,7 @@
 - **Tech**: React.js, WebRTC, Socket.io, Node.js, Tailwind CSS
 - **Link**: [GitHub Repo URL](https://github.com/mahesh-barapatre/Sarthi2.0) | [Live URL](https://sarthi2-0.vercel.app/)
 
-<div style="margin-bottom: 20px;"></div>
+<div style="margin-bottom: 20px;">-</div>
 
 ## 💼 Experience
 - **React Intern @ Sync Interns**  
@@ -48,6 +47,4 @@
 
 Feel free to explore my repos or drop me a message—I’m always up for coding collabs or new opportunities! 🚀
 
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesh-barapatre&show_icons=true&locale=en&layout=compact" alt="mahesh-barapatre" />
-</p>
+
